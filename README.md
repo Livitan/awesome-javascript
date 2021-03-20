@@ -537,6 +537,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 * [xss-filters](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo.
+* [sanitize-html](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 
 
 ## Log
@@ -572,6 +573,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 * [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 * [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
+* [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## Streaming
 
@@ -732,6 +734,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
 * [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 * [datedropper](https://github.com/felicegattuso/datedropper) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+* [Date Range Picker](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 
 
 ### Select
